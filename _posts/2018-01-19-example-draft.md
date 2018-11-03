@@ -7,7 +7,7 @@ tags: []
 related_posts: []
 
 ---
-## ![](/uploads/2017/11/14/andrew-robles-300868.jpg)What are draft posts?
+## ![](/uploads/2017/11/14/andrew-robles-300868.jpg)What are draft posts?版本
 
 This is an example of a draft post. Draft posts aren't included when publishing your site.
 
